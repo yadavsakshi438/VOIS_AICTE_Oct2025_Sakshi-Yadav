@@ -3,7 +3,7 @@
 
 Netflix has become one of the most prominent global streaming platforms, continuously expanding its library with a mix of original productions and licensed content. However, with rising competition from Amazon Prime, Disney+, and regional OTT providers, Netflix must strategically analyze its content catalog to identify strengths, gaps, and opportunities.
 
-This project focuses on Content Trends Analysis for Strategic Recommendations, aiming to uncover how Netflix’s content distribution (Movies vs. TV Shows, genres, and country contributions) has evolved over the years.
+This project focuses on  **Content Trends Analysis for Strategic Recommendations**, aiming to uncover how Netflix’s content distribution (Movies vs. TV Shows, genres, and country contributions) has evolved over the years.
 
 # 2. Problem Statement
 
